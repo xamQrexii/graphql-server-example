@@ -13,7 +13,6 @@ Run server
 ```
 yarn start
 ```
-OR
 
 Run server in development mode (auto reload on change)
 ```
